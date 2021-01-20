@@ -1,0 +1,21 @@
+.about_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.about_mainDiv img {
+    width: 100%;
+}
+.about_mainDiv hr {
+    width: 230px;
+}
+.about_mainDiv h5, .travel_mainDiv p {
+    margin-left: 20px;
+}
+#travel h2 {
+    text-align: center;
+}
+#life h2 {
+    text-align: center;
+}
